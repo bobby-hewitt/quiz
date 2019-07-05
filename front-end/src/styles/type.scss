@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Campton';
+  font-style: bold;
+  src: url(/fonts/ReneBieder-CamptonSemiBold.otf)
+}
+
+@font-face {
+  font-family: 'Campton';
+  font-style: regular;
+  src: url(/fonts/ReneBieder-CamptonLight.otf)
+}
+
+
+body {
+  
+ /*  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+
+
+
+code {
+ 
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+	font-family: 'Campton';
+	color:white;
+}
+
+h1{
+	font-size:96px;
+}
+
+h2{
+	font-size:60px;
+}
+
+h3{
+	font-size:48px;
+}
+
+h4{
+	font-size:36px;
+	font-weight: bold!important;
+}
+
+h5{
+	font-size:24px;
+}
+
+h6{
+	font-size:20px;
+}
+
+p{
+	font-size:16px;
+}
